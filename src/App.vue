@@ -4,6 +4,7 @@
       <nav id="menu" class="sidebar">
         <h2><a href="./App.vue" style="color: white;">StoreOnce</a></h2>
         <ul>
+          <h1> Hola Mundo </h1>
           <li><a href="#"></a></li>
           <li><a href="#" @click="cargarMonitor">Monitor</a></li>
           <li><a href="#" @click="cargarTabla">Registros</a></li>
